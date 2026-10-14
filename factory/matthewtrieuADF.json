@@ -1,0 +1,15 @@
+{
+	"name": "matthewtrieuADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7f30d35b-bfff-4119-9905-e5e05c6d681b",
+		"tenantId": "360b39cf-7e0e-49e9-bb88-507ec7e6231d"
+	}
+}
