@@ -1,0 +1,13 @@
+{
+	"name": "LS_JSONPlaceholder",
+	"properties": {
+		"description": "https://jsonplaceholder.typicode.com/",
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://jsonplaceholder.typicode.com/posts",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
